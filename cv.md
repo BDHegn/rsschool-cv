@@ -89,12 +89,6 @@ var game = {
             }
         }    
     },
-     start: function(){
-        this.init();
-        this.load();
-        this.create();
-        this.run();
-     },
      render:  function(){
         this.ctx.clearRect(0,0,this.width,this.heigth);
         this.ctx.drawImage(this.sprites.background,0,0);
