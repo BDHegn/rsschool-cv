@@ -155,5 +155,5 @@ var game = {
 
 ## Education
 
-* Student of Minsk College of Bussines
-* High school №84
+* Student of Minsk College of Bussines (2017-2020)
+* High school №84(2007-2016)
